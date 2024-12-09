@@ -1,0 +1,340 @@
+Uri: https://camo.envatousercontent.com/c7a99d446c7580817cda02fbf2a9862a7f68677f/687474703a2f2f692e68697a6c69726573696d2e636f6d2f58304e4a4e6a2e6a7067
+File Name: C:\Users\choco\Desktop\themeforest.net\c7a99d446c7580817cda02fbf2a9862a7f68677f\687474703a2f2f692e68697a6c69726573696d2e636f6d2f58304e4a4e6a2e6a7067
+Content Type: image/jpeg
+
+Uri: https://consent.cookiebot.com/uc.js
+File Name: C:\Users\choco\Desktop\themeforest.net\uc.js
+Content Type: application/javascript
+
+Uri: https://market-resized.envatousercontent.com/themeforest.net/files/259053495/preview/preview.__large_preview.png?auto=format&q=94&cf_fit=crop&gravity=top&h=4068&w=300&s=c81d5c5d7e4b761086a8ffd05452f0a48adcd4132cfb48772bf0d0fca40db059
+File Name: C:\Users\choco\Desktop\themeforest.net\themeforest.net\files\259053495\preview\preview.__large_preview-3.png
+Content Type: image/png
+
+Uri: https://market-resized.envatousercontent.com/themeforest.net/files/259053495/preview/preview.__large_preview.png?auto=format&q=94&cf_fit=crop&gravity=top&h=5424&w=400&s=6614c4b029a162321faddafbe6f17ccf44749477beb47b00befc5f049a69035c
+File Name: C:\Users\choco\Desktop\themeforest.net\themeforest.net\files\259053495\preview\preview.__large_preview-2.png
+Content Type: image/png
+
+Uri: https://market-resized.envatousercontent.com/themeforest.net/files/259053495/preview/preview.__large_preview.png?auto=format&q=94&cf_fit=crop&gravity=top&h=6780&w=500&s=75334e31e96ce2aed40ff727c59c257767c9e17eb009f689009c1473d4c6b46e
+File Name: C:\Users\choco\Desktop\themeforest.net\themeforest.net\files\259053495\preview\preview.__large_preview-1.png
+Content Type: image/png
+
+Uri: https://market-resized.envatousercontent.com/themeforest.net/files/259053495/preview/preview.__large_preview.png?auto=format&q=94&cf_fit=crop&gravity=top&h=8000&w=590&s=19f3f362b7e9b57f7981e9347a18f65fcf29e78643218d90a832b290cc5f103d
+File Name: C:\Users\choco\Desktop\themeforest.net\themeforest.net\files\259053495\preview\preview.__large_preview.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/badges/bg-badges-b66f7cdb26693ff988b114cb32609b150602f04b5e5cf6be6dbfb2d1fef90183.jpg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\badges\bg-badges-b66f7cdb26693ff988b114cb32609b150602f04b5e5cf6be6dbfb2d1fef90183.jpg
+Content Type: image/jpeg
+
+Uri: https://public-assets.envato-static.com/assets/badges/elite-10edc87feb7935dd2b5b4a75c2ecbf7602f735e2367b0430dfa4befe23c0d4ff.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\badges\elite-10edc87feb7935dd2b5b4a75c2ecbf7602f735e2367b0430dfa4befe23c0d4ff.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/common/50x-page/envato-logo-11bf09c1be758f900356bf789ceb40db7c2fcbc0557fb85dff1a7a827a182673.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\50x-page\envato-logo-11bf09c1be758f900356bf789ceb40db7c2fcbc0557fb85dff1a7a827a182673.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/common/bg-page-section--light-df7df4ee3302cefd79e92f8178eed1e5d4e535f3b5450288dcc05ba63bfbe904.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\bg-page-section--light-df7df4ee3302cefd79e92f8178eed1e5d4e535f3b5450288dcc05ba63bfbe904.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/common/bg-page-section-a07ab97ca4070e5b25b36ca4d0f246eb1c7ed28403482e573fac8b14dcd2c112.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\bg-page-section-a07ab97ca4070e5b25b36ca4d0f246eb1c7ed28403482e573fac8b14dcd2c112.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/common/icons-buttons/default-user-569c91e7c33c00089a6b1f4bac12d4b00b0d1c3ef76165969f81e77017c89d62.jpg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\icons-buttons\default-user-569c91e7c33c00089a6b1f4bac12d4b00b0d1c3ef76165969f81e77017c89d62.jpg
+Content Type: image/jpeg
+
+Uri: https://public-assets.envato-static.com/assets/common/icons-buttons/warning-b3cc41aec0313ab548b76821ddbeb11fb683276d6c6fcda231d2c7f354be87bd.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\icons-buttons\warning-b3cc41aec0313ab548b76821ddbeb11fb683276d6c6fcda231d2c7f354be87bd.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/common/input-validation__invalid-ecb44f2043f8a65c6b5cfdf3b5b813e4b66ba72e20c1bfa98dc03ec091673a27.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\input-validation__invalid-ecb44f2043f8a65c6b5cfdf3b5b813e4b66ba72e20c1bfa98dc03ec091673a27.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/common/input-validation__pending-eda46ca6b1d93ee958f6291dcffb19f26970274b1a3405d86e6194d9486f330b.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\input-validation__pending-eda46ca6b1d93ee958f6291dcffb19f26970274b1a3405d86e6194d9486f330b.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/common/input-validation__valid-ad0699536415d38e62ad0ed66070d56104aabeb5dc4ce4742ee841fdcf5ed338.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\input-validation__valid-ad0699536415d38e62ad0ed66070d56104aabeb5dc4ce4742ee841fdcf5ed338.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/common/input-validation__warning-74518a1b8f84c370ba6b297fe6d1a99c376fe0c1d5beec24487c22bc6f1df8e2.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\input-validation__warning-74518a1b8f84c370ba6b297fe6d1a99c376fe0c1d5beec24487c22bc6f1df8e2.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/common/pagination_loader-ccdae013a8bbb92cbd0d52d6e1db2fea8a05b335a67409822029a16505e9adb5.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\pagination_loader-ccdae013a8bbb92cbd0d52d6e1db2fea8a05b335a67409822029a16505e9adb5.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/common/small_loader-c10617fc93d9927b6ee25472fa7e3b9dc50ec6541af04dfa0acfcbca9338e79e.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\small_loader-c10617fc93d9927b6ee25472fa7e3b9dc50ec6541af04dfa0acfcbca9338e79e.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/common/small_loader_white-6f8d2990cd27635755902725fb95d2f8cbe1730dd684ec9aeded751b88f7485f.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\small_loader_white-6f8d2990cd27635755902725fb95d2f8cbe1730dd684ec9aeded751b88f7485f.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/common/spinner-5afee8a5dd2bac729ec9df56a27ece157c16d658ddc60bdf81b76b341d4cf0b1.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\spinner-5afee8a5dd2bac729ec9df56a27ece157c16d658ddc60bdf81b76b341d4cf0b1.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/common/transparent-1px-1f61547480c17dc67dd9a6c38545a5911cc4a8024f6f3c0992e7c1c81fb37578.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\common\transparent-1px-1f61547480c17dc67dd9a6c38545a5911cc4a8024f6f3c0992e7c1c81fb37578.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/community-research/bg-community-research-b8a71218af174a3ae434a3f085b1de4466416b2af9b6915620830121b5a93ad7.jpg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\community-research\bg-community-research-b8a71218af174a3ae434a3f085b1de4466416b2af9b6915620830121b5a93ad7.jpg
+Content Type: image/jpeg
+
+Uri: https://public-assets.envato-static.com/assets/earnings-page/blueskies@2x-db3024d4bdd6f4ee90fc510b3bb2615c445c2d35b8ee5eaec2b5705f2f01bad0.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\earnings-page\blueskies@2x-db3024d4bdd6f4ee90fc510b3bb2615c445c2d35b8ee5eaec2b5705f2f01bad0.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/earnings-page/caveman@2x-87989dc113b31eea9fde169f7acaec88ffd11c4412b9ff8dea0e0936b81c39af.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\earnings-page\caveman@2x-87989dc113b31eea9fde169f7acaec88ffd11c4412b9ff8dea0e0936b81c39af.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/earnings-page/spacedata@2x-f9e705a99310b2156ca3851320291c5b88f1bdf1a4507368c632cb733a712861.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\earnings-page\spacedata@2x-f9e705a99310b2156ca3851320291c5b88f1bdf1a4507368c632cb733a712861.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/fancybox/blank-6e8ddbcd39cdd88619bd7ad9a69323b8a52b7fd13728152c49f9ce73671b705e.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\fancybox\blank-6e8ddbcd39cdd88619bd7ad9a69323b8a52b7fd13728152c49f9ce73671b705e.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/fancybox/fancybox_loading-4084d1397c6cb05715de996ff5cd4f7bebcb9c2b365b99ebe5f55d77fe6329ab.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\fancybox\fancybox_loading-4084d1397c6cb05715de996ff5cd4f7bebcb9c2b365b99ebe5f55d77fe6329ab.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/fancybox/fancybox_loading@2x-81f54099406cdfb7aa953f0f761cb33e15a0348842e811c02e48a21f57f02b62.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\fancybox\fancybox_loading@2x-81f54099406cdfb7aa953f0f761cb33e15a0348842e811c02e48a21f57f02b62.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/fancybox/fancybox_overlay-416ea0168151a94471c5eb980a02969b0b4be90203bc2e3cb9a1899c3f979a01.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\fancybox\fancybox_overlay-416ea0168151a94471c5eb980a02969b0b4be90203bc2e3cb9a1899c3f979a01.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/fancybox/fancybox_sprite-95641a3e1c130816c8ed2ededffbf5df4c74658914da2124df2e34f89513707c.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\fancybox\fancybox_sprite-95641a3e1c130816c8ed2ededffbf5df4c74658914da2124df2e34f89513707c.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/fancybox/fancybox_sprite@2x-2eba1ab393d42ca60d838f0945d25995c3c1e2085e837b48e7740dd7405e4068.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\fancybox\fancybox_sprite@2x-2eba1ab393d42ca60d838f0945d25995c3c1e2085e837b48e7740dd7405e4068.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\generated_sprites\common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\generated_sprites\logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/generated_sprites/logos_2x-e385160dbd01e36a8d63d91938791184292305a2df166640baee0f7be3c9b481.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\generated_sprites\logos_2x-e385160dbd01e36a8d63d91938791184292305a2df166640baee0f7be3c9b481.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/header-footer/cross-sell-elements-1x-59887e02d3bda94335ce4ed0d1cdd4465b42a2dae3524eb09ea85bf5f4d55c08.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header-footer\cross-sell-elements-1x-59887e02d3bda94335ce4ed0d1cdd4465b42a2dae3524eb09ea85bf5f4d55c08.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/header-footer/cross-sell-elements-2x-7b24f742786bf9591eb05fa640819e037c8330cd646f7a547a3b3d07d7c208d8.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header-footer\cross-sell-elements-2x-7b24f742786bf9591eb05fa640819e037c8330cd646f7a547a3b3d07d7c208d8.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/header-footer/logo-bcorp-e83f7da84188b8edac311fbf08eaa86634e9db7c67130cdc17837c1172c5f678.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header-footer\logo-bcorp-e83f7da84188b8edac311fbf08eaa86634e9db7c67130cdc17837c1172c5f678.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/header/badge-a65149663b95bcee411e80ccf4da9788f174155587980d8f1d9c44fd8b59edd8.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header\badge-a65149663b95bcee411e80ccf4da9788f174155587980d8f1d9c44fd8b59edd8.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/header/EnvatoElements-logo-4f70ffb865370a5fb978e9a1fc5bbedeeecdfceb8d0ebec2186aef4bee5db79d.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header\EnvatoElements-logo-4f70ffb865370a5fb978e9a1fc5bbedeeecdfceb8d0ebec2186aef4bee5db79d.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/header/items-collage-1x-a39e4a5834e75c32a634cc7311720baa491687b1aaa4b709ebd1acf0f8427b53.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header\items-collage-1x-a39e4a5834e75c32a634cc7311720baa491687b1aaa4b709ebd1acf0f8427b53.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/header/items-collage-2x-75e1ad16a46b9788861780a57feeb5fd1ad1026ecce9330302f0ef8f6f542697.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header\items-collage-2x-75e1ad16a46b9788861780a57feeb5fd1ad1026ecce9330302f0ef8f6f542697.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/header/thumbs_up-e5ce4c821cfd6a6aeba61127a8e8c4d2d7c566e654f588a22708c64d66680869.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\header\thumbs_up-e5ce4c821cfd6a6aeba61127a8e8c4d2d7c566e654f588a22708c64d66680869.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/homepage_banner-2f27e5e7bc49b0d27874d2780405656df3dc3165c3af8f67b17db02b8f3660f4.jpg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\homepage_banner-2f27e5e7bc49b0d27874d2780405656df3dc3165c3af8f67b17db02b8f3660f4.jpg
+Content Type: image/jpeg
+
+Uri: https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-114x114-precomposed-bab982e452fbea0c6821ffac2547e01e4b78e1df209253520c7c4e293849c4d3.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\icons\favicons\apple-touch-icon-114x114-precomposed-bab982e452fbea0c6821ffac2547e01e4b78e1df209253520c7c4e293849c4d3.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-120x120-precomposed-8275dc5d1417e913b7bd8ad048dccd1719510f0ca4434f139d675172c1095386.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\icons\favicons\apple-touch-icon-120x120-precomposed-8275dc5d1417e913b7bd8ad048dccd1719510f0ca4434f139d675172c1095386.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-144x144-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\icons\favicons\apple-touch-icon-144x144-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-72x72-precomposed-ea6fb08063069270d41814bdcea6a36fee5fffaba8ec1f0be6ccf3ebbb63dddb.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\icons\favicons\apple-touch-icon-72x72-precomposed-ea6fb08063069270d41814bdcea6a36fee5fffaba8ec1f0be6ccf3ebbb63dddb.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/icons/favicons/apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\icons\favicons\apple-touch-icon-precomposed-c581101b4f39d1ba1c4a5e45edb6b3418847c5c387b376930c6a9922071c8148.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/icons/favicons/favicon-1147a1221bfa55e7ee6678c2566ccd7580fa564fe2172489284a1c0b1d8d595d.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\icons\favicons\favicon-1147a1221bfa55e7ee6678c2566ccd7580fa564fe2172489284a1c0b1d8d595d.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/item/overlay_live_preview-866d58447ed656214cdeb52cd5c7ae5251d6e7cee5491e621d9624c51a33d416.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\item\overlay_live_preview-866d58447ed656214cdeb52cd5c7ae5251d6e7cee5491e621d9624c51a33d416.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/item/overlay_screenshot_preview-0ec563953a70fc4cf858189592e8e3446ec2a1165803061e72e9e8825f5b1682.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\item\overlay_screenshot_preview-0ec563953a70fc4cf858189592e8e3446ec2a1165803061e72e9e8825f5b1682.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/logos/envato_market-dd390ae860330996644c1c109912d2bf63885fc075b87215ace9b5b4bdc71cc8.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\logos\envato_market-dd390ae860330996644c1c109912d2bf63885fc075b87215ace9b5b4bdc71cc8.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/market/core/datadog-c9dadca4b1354094f125388491f85039fc6c2017f1bbf824b789caa4c03450a2.js
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\core\datadog-c9dadca4b1354094f125388491f85039fc6c2017f1bbf824b789caa4c03450a2.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/core/head-27cdb5ede34aef07336dc99fceecaf31a2d50c9615e8116fc60965812916e464.js
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\core\head-27cdb5ede34aef07336dc99fceecaf31a2d50c9615e8116fc60965812916e464.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/core/index-3d8a0ccd9978174dda7d3aa30b258e7ace330a435d742f005d78398b2a3f6013.js
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\core\index-3d8a0ccd9978174dda7d3aa30b258e7ace330a435d742f005d78398b2a3f6013.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/core/index-a9b4110996ce191cf79c3c3d4591a5bb3ada6179f9cdd9de9e89ba0bd13823e0.css
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\core\index-a9b4110996ce191cf79c3c3d4591a5bb3ada6179f9cdd9de9e89ba0bd13823e0.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/assets/market/core/lazyload-f0fdf08f4783c5b030b32eb74e26ace288ccfeeee00a96df46f974edf09fc853.js
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\core\lazyload-f0fdf08f4783c5b030b32eb74e26ace288ccfeeee00a96df46f974edf09fc853.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/market/pages/default/index-43c9e199b223db5c5bba332e76ddb21b8a94a6038c1f49a8e7d1d258d5b02293.css
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\pages\default\index-43c9e199b223db5c5bba332e76ddb21b8a94a6038c1f49a8e7d1d258d5b02293.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/assets/market/pages/default/index-48d9485e892b8042a34669f184c1216e988cf3489bbd24b70672c7dee69a58af.js
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\market\pages\default\index-48d9485e892b8042a34669f184c1216e988cf3489bbd24b70672c7dee69a58af.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/assets/marketplace-glyphs/marketplace-glyphs-497c4a115add7b2c6b95117c155d0f698e5e26954c4b49217034ad39ee66d743.svg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\marketplace-glyphs\marketplace-glyphs-497c4a115add7b2c6b95117c155d0f698e5e26954c4b49217034ad39ee66d743.svg
+Content Type: image/svg+xml
+
+Uri: https://public-assets.envato-static.com/assets/marketplace-glyphs/marketplace-glyphs-85cc828ca8d675d6613f41b266689cea348332a12f6966cbe08583f16f208a40.woff
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\marketplace-glyphs\marketplace-glyphs-85cc828ca8d675d6613f41b266689cea348332a12f6966cbe08583f16f208a40.woff
+Content Type: application/font-woff
+
+Uri: https://public-assets.envato-static.com/assets/marketplace-glyphs/marketplace-glyphs-b94c8b32d03aa7203117cb403f5ad0a09e621925822c3eec0c404e13e0408ea2.ttf
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\marketplace-glyphs\marketplace-glyphs-b94c8b32d03aa7203117cb403f5ad0a09e621925822c3eec0c404e13e0408ea2.ttf
+Content Type: application/font-ttf
+
+Uri: https://public-assets.envato-static.com/assets/marketplace-glyphs/marketplace-glyphs-e72c235d8798e8242163d10f68f4eaa9d6919c4689c705a6c30fe80cf3d4ff9d.eot
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\marketplace-glyphs\marketplace-glyphs-e72c235d8798e8242163d10f68f4eaa9d6919c4689c705a6c30fe80cf3d4ff9d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://public-assets.envato-static.com/assets/marketplace-glyphs/marketplace-glyphs-e72c235d8798e8242163d10f68f4eaa9d6919c4689c705a6c30fe80cf3d4ff9d.eot?
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\marketplace-glyphs\marketplace-glyphs-e72c235d8798e8242163d10f68f4eaa9d6919c4689c705a6c30fe80cf3d4ff9d-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://public-assets.envato-static.com/assets/normalize.css/normalize-b1a155928b172f008fc543e8a057fcbe0f8855c5f410811adcaf2cf21f310a63.css
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\normalize.css\normalize-b1a155928b172f008fc543e8a057fcbe0f8855c5f410811adcaf2cf21f310a63.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/assets/PolySans-Family/PolySans-Median-3a831d451fb6e08a2d12ff4af107eea1a4ee286096911338ec3985e89f59c841.otf
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\PolySans-Family\PolySans-Median-3a831d451fb6e08a2d12ff4af107eea1a4ee286096911338ec3985e89f59c841.otf
+Content Type: font/otf
+
+Uri: https://public-assets.envato-static.com/assets/PolySans-Family/PolySans-Neutral-97805fdcd154c8dade0711b51e8ee36a88f411929fc0fdc812782006232b1407.otf
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\PolySans-Family\PolySans-Neutral-97805fdcd154c8dade0711b51e8ee36a88f411929fc0fdc812782006232b1407.otf
+Content Type: font/otf
+
+Uri: https://public-assets.envato-static.com/assets/upload_icons/loading-40b3fa240d6110584d960ab42709b732da4cdcf9a0ebbada2eac6ec62c6d5589.gif
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\upload_icons\loading-40b3fa240d6110584d960ab42709b732da4cdcf9a0ebbada2eac6ec62c6d5589.gif
+Content Type: image/gif
+
+Uri: https://public-assets.envato-static.com/assets/upload_icons/ok-eeeeafda72aa861f7971ae20fae275d2526936792e6314c8f414eb7d08e0fc6d.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\upload_icons\ok-eeeeafda72aa861f7971ae20fae275d2526936792e6314c8f414eb7d08e0fc6d.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/upload_icons/transit-b7d142c94072c8dabf73cba8b62708e64594634f836b42102f6940686b302b3f.png
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\upload_icons\transit-b7d142c94072c8dabf73cba8b62708e64594634f836b42102f6940686b302b3f.png
+Content Type: image/png
+
+Uri: https://public-assets.envato-static.com/assets/wordpress-hosting/banner_background-da1b9b0562a9dce09ff9f5a5486c29f5254f1277085a4ae57d682a474e67b144.jpg
+File Name: C:\Users\choco\Desktop\themeforest.net\assets\wordpress-hosting\banner_background-da1b9b0562a9dce09ff9f5a5486c29f5254f1277085a4ae57d682a474e67b144.jpg
+Content Type: image/jpeg
+
+Uri: https://public-assets.envato-static.com/mp/packs/css/components/brand_neue_tokens-a3eebe3f.css
+File Name: C:\Users\choco\Desktop\themeforest.net\mp\packs\css\components\brand_neue_tokens-a3eebe3f.css
+Content Type: text/css
+
+Uri: https://public-assets.envato-static.com/mp/packs/js/gtm_measurements-0a96144c452c1dfda6b2.js
+File Name: C:\Users\choco\Desktop\themeforest.net\mp\packs\js\gtm_measurements-0a96144c452c1dfda6b2.js
+Content Type: application/javascript
+
+Uri: https://public-assets.envato-static.com/mp/packs/js/rollbar-304e0de7661e0a12bfed.js
+File Name: C:\Users\choco\Desktop\themeforest.net\mp\packs\js\rollbar-304e0de7661e0a12bfed.js
+Content Type: application/javascript
+
+Uri: https://s3.envato.com/files/259053492/thumb.png
+File Name: C:\Users\choco\Desktop\themeforest.net\files\259053492\thumb.png
+Content Type: image/png
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments?page=1
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments-6.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments?page=2
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments-1.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments?page=3
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments-2.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments?page=4
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments-3.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments?page=5
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments-4.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/comments?page=6
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\comments-5.html
+Content Type: text/html
+
+Uri: https://themeforest.net/item/friend-finder-social-network-html5-template/18711273/support
+File Name: C:\Users\choco\Desktop\themeforest.net\item\friend-finder-social-network-html5-template\18711273\support.html
+Content Type: text/html
+
